@@ -23,3 +23,11 @@ Compile the server and client programs:
 gcc server.c -o server
 gcc client.c -o client
 ```
+Run in separate windows
+```
+# Terminal 1
+./server
+
+# Terminal 2
+./client
+```
