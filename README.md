@@ -17,3 +17,9 @@ A simple implementation of client-server communication using C sockets.
 ## Building
 
 Compile the server and client programs:
+
+## Usage
+```sh
+gcc server.c -o server
+gcc client.c -o client
+```
