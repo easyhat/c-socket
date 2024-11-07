@@ -57,4 +57,9 @@ client
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db 
+Thumbs.db
+# Executables
+tcp_server
+tcp_client
+udp_server
+udp_client
