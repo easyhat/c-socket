@@ -1,4 +1,4 @@
-# C Socket Programming Example
+# C Socket
 
 A simple implementation of client-server communication using C sockets.
 
@@ -16,4 +16,4 @@ A simple implementation of client-server communication using C sockets.
 
 ## Building
 
-Compile the server and client programs: 
+Compile the server and client programs:
